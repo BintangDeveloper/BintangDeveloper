@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://bintangdeveloper.eu.org/assets/img/favicon.jpg" width="100"/>
+</div>
 ### Hi there 👋
 
 <!--
