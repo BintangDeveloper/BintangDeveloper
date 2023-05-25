@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <img src="https://bintangdeveloper.eu.org/assets/img/favicon.jpg" width="100"/>
+  <img src="https://bintangdeveloper.eu.org/assets/img/favicon.jpg" width="100"/><br>
+  <strong>Bintang Developer</strong>
 </div>
-### Hi there 👋
+
 
 <!--
 **BintangDeveloper/BintangDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
