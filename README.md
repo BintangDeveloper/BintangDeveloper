@@ -1,7 +1,7 @@
-<div id="header" align="center">
-  <img src="https://bintangdeveloper.eu.org/assets/img/favicon.jpg" width="100"/><br>
-  <strong>Bintang Developer</strong>
-</div>
+<p align="center"><img src="https://BintangDeveloper.eu.org/assets/img/favicon.jpg" width="100"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=BintangDeveloper&style=flat-square&color=blue" alt=""></p>
+
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
 <!--
