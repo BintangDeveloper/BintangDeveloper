@@ -37,10 +37,12 @@
 
 ## Technologies I Use
 
-![Php](https://img.shields.io/badge/Php-0078d7?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-DC143C?style=for-the-badge&labelColor=black&logo=laravel&logoColor=DC143C)
+
+![NextJs](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-DC143C?style=for-the-badge&labelColor=black&logo=laravel&logoColor=DC143C)
+![Php](https://img.shields.io/badge/Php-0078d7?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,7 +54,7 @@
 
 ## Top Open Source Repositories
 
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=bintangdeveloper&repo=bintangdeveloper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bintangdeveloper/itasks)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=bintangdeveloper&repo=bintangdeveloper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bintangdeveloper/bintangdeveloper)
 <!-- Pin cards for top open source repositories -->
 
 <p align="left">
