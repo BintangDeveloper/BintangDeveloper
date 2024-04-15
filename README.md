@@ -1,4 +1,6 @@
-<!-- Intro -->
+<!-- Intro 
+YmFja2VuZC5tYWdtYW5vZGUuY29tJTIwJTdDJTIwZGJfMjI4ODgxJTIwJTIwJTdDJTIwbGNLMllUUHN5ZnRyUkNUSDZwUTAlMEElMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlN0MlMjBOZWdhdGl2aXR5JTIwJTdDJTIwRFNjVnRHMlk2OVptMzJ1
+-->
 <h3 align="center">
   <samp>&gt; Hey There!, I am <b><a href="#" target="_blank">BintangDeveloper</a></b></samp>
 </h3>
