@@ -1,6 +1,4 @@
-<!-- Intro 
-YmFja2VuZC5tYWdtYW5vZGUuY29tJTIwJTdDJTIwZGJfMjI4ODgxJTIwJTIwJTdDJTIwbGNLMllUUHN5ZnRyUkNUSDZwUTAlMEElMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlN0MlMjBOZWdhdGl2aXR5JTIwJTdDJTIwRFNjVnRHMlk2OVptMzJ1
--->
+<!-- intro -->
 <h3 align="center">
   <samp>&gt; Hey There!, I am <b><a href="#" target="_blank">BintangDeveloper</a></b></samp>
 </h3>
@@ -25,7 +23,6 @@ YmFja2VuZC5tYWdtYW5vZGUuY29tJTIwJTdDJTIwZGJfMjI4ODgxJTIwJTIwJTdDJTIwbGNLMllUUHN5
 # About me
 
 <p>
-  <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
   ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
   ❤️ &emsp; Love writing code and learning new features<br/><br/>
@@ -85,8 +82,8 @@ YmFja2VuZC5tYWdtYW5vZGUuY29tJTIwJTdDJTIwZGJfMjI4ODgxJTIwJTIwJTdDJTIwbGNLMllUUHN5
 
 <!-- GitHub Stats -->
 <a href="https://github.com/bintangdeveloper">
-  <a href="https://github.com/bintangdeveloper"><img alt="Bintang Developer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bintangdeveloper&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/bintangdeveloper"><img alt="Bintang Developer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bintangdeveloper&langs_count=8&count_private=true&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/bintangdeveloper"><img alt="Bintang Developer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bintangdeveloper&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="48.5%"/></a>
+  <a href="https://github.com/bintangdeveloper"><img alt="Bintang Developer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bintangdeveloper&langs_count=8&count_private=true&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="48.5%"/></a>
   <br/>
 </a>
 
